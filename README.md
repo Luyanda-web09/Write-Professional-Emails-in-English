@@ -1,4 +1,7 @@
-# Write-Professional-Emails-in-EnglishThis lesson focuses on the essential components of writing professional emails in English.
+# Write-Professional-Emails-in-English 
+Module 1
+
+This lesson focuses on the essential components of writing professional emails in English.
 
 Basic Parts of a Professional Email
 - The four key elements of an email are the subject line, greeting, email text, and closing.
@@ -60,3 +63,39 @@ Capitalize titles of newspapers (e.g., The New York Times) and books/movies, wit
 
 Organize your emails by starting with key details like the event name, time, and location.
 Avoid strong or demanding words that may come off as rude; opt for neutral language to foster a friendly tone.
+
+Module 2
+
+Writing effective subject lines and email text for professional emails in English.
+
+Subject Lines
+
+Keep subject lines brief, ideally 25-30 characters (3-5 words) for mobile readability.
+Ensure clarity by including relevant keywords at the beginning of the subject line.
+Directness in Subject Lines
+
+Use specific details, such as job titles or action verbs, to make subject lines direct and informative.
+Include important information like dates or company names to avoid confusion.
+Capitalization and Writing Strategy
+
+Follow capitalization rules similar to media titles, capitalizing important words while omitting prepositions.
+It is recommended to draft the subject line first to guide the email content and avoid leaving it blank.
+
+The essential components of writing effective email texts in English.
+
+Introduction to Email Text
+
+The introduction should clearly state who the author is and the purpose of the email.
+Use the author's name, position, and organization for first-time emails; pronouns can be used for ongoing conversations.
+Development of Email Text
+
+The development section elaborates on the email's purpose by answering WH questions (who, what, when, where, why, how).
+Organizing the content around these questions helps clarify the message.
+Conclusion of Email Text
+
+The conclusion typically includes a show of appreciation or a positive statement.
+Use verbs like "thank" or "hope" to convey gratitude and optimism, enhancing the reader's impression of the email.
+
+Module 3
+
+
