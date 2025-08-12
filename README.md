@@ -98,4 +98,62 @@ Use verbs like "thank" or "hope" to convey gratitude and optimism, enhancing the
 
 Module 3
 
+Writing effective introduction and announcement emails, highlighting their distinct purposes and approaches.
 
+Introduction Emails
+
+Clearly state who you are and the value you bring to the reader or the connection between two business contacts.
+Use a clear and concise subject line that indicates the professional benefit of the introduction.
+Announcement Emails
+
+Ensure the subject line and greeting are appropriate, and provide accurate information about new products, services, or changes.
+Anticipate questions from recipients and address them in your email to maintain professionalism.
+Key Takeaways
+
+Both email types require a clear subject line that reflects their purpose.
+Introduction emails should emphasize the importance of the connection, while announcement emails must be fact-checked before sending.
+
+the key language and structure for writing introduction and announcement emails, which are essential for effective business communication.
+
+Email Structure Overview
+
+The email should have a clear subject line that states its purpose without unnecessary information.
+The structure includes an introduction sentence, a controlling idea, the main body, and a conclusion with a closing statement.
+Introduction Emails
+
+Start with your name and position, or if you're a student, mention your school and degree.
+The controlling idea should explain why you are introducing yourself, followed by relevant questions or information about your interests.
+Announcement Emails
+
+Use bold and direct language to capture the reader's attention, similar to advertisements.
+Include essential details in a clear order: who, what, when, where, and why, ensuring the reader understands the announcement's significance.
+
+Module 4
+
+The language and expressions used for making polite requests in professional emails.
+
+Polite Requests
+
+Using "please" is the simplest way to make requests sound polite (e.g., "Please send me your resume").
+Question forms with "could" and "would" also enhance politeness (e.g., "Could you please send me your resume?").
+Additional Polite Expressions
+
+"Would you mind" is another polite way to ask for something, using gerunds (e.g., "Would you mind sending me your resume?").
+"Would like" is a more polite alternative to "want" (e.g., "I would like to meet you at 3 PM").
+Concluding Requests
+
+When making multiple requests, you can number them or use "also" to connect them (e.g., "Could you also include three references?").
+Always conclude with words of appreciation, such as "thank you" or "I appreciate it," to express gratitude.
+
+How to write effective apologies in emails, emphasizing the importance of using appropriate expressions based on the level of responsibility.
+
+Understanding Apology Expressions
+
+"I'm sorry if": Used when unsure of responsibility; acknowledges potential fault on both sides. Example: "I'm sorry if you didn't receive the resume I sent."
+"I'm sorry that": Used when fully aware of one's responsibility; includes a clear description of the mistake. Example: "I'm sorry that the correct file was not sent."
+Apologizing for Minor Mistakes
+
+"I'm sorry about": Suitable for small errors that require brief acknowledgment. Example: "I'm sorry about the confusion; I will send you a new document shortly."
+Importance of Apologizing
+
+Writing apologies is crucial for maintaining good relationships and addressing communication breakdowns, which can impact business opportunities.
